@@ -1,17 +1,5 @@
 namespace ExamQualificationApp
 {
-    /// <summary>
-    /// Console application that determines whether a student qualifies
-    /// to write the final exam, based on a weighted average of four
-    /// assessment marks:
-    ///
-    ///     Test 1        - 30%
-    ///     Test 2        - 50%
-    ///     Assignment 1  - 10%
-    ///     Project       - 10%
-    ///
-    /// A student qualifies if the weighted average is >= 50.
-    /// </summary>
     class Program
     {
         // Assessment weights (must sum to 1.0 / 100%)
