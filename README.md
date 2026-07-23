@@ -11,3 +11,4 @@ A student qualifies if their overall weighted average is **50% or higher**.
 ### 1. Pull the image 
 '''
 docker pull 605021/exam-qualification:latest
+docker run --rm -it 605021/exam-qualification:latest
